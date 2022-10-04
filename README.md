@@ -2,4 +2,4 @@
 
 ### Содержание
 
-[1. Частые вопросы о дизайне и истории языка](https://github.com/maskalev/about_python/blob/master/python_desigh_faq.md)
+[1. Частые вопросы о дизайне и истории языка](https://github.com/maskalev/about_python/blob/master/python_design_faq.md)
