@@ -47,7 +47,7 @@
 
 [Почему `list.sort()` не возвращает сортированный список](#почему-listsort-не-возвращает-сортированный-список)
 
-How do you specify and enforce an interface spec in Python?
+[Как указать и обеспечить соблюдение спецификации интерфейса в Python?](#как-указать-и-обеспечить-соблюдение-спецификации-интерфейса-в-python)
 
 Why is there no goto?
 
@@ -605,3 +605,6 @@ class ListWrapper:
 for key in sorted(mydict):
     ...  # do whatever with mydict[key]...
 ```
+
+
+### Как указать и обеспечить соблюдение спецификации интерфейса в Python?
