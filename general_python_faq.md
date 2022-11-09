@@ -1,4 +1,4 @@
-## Частые вопросы по языку *Python* (перевод [статьи](https://docs.python.org/3/faq/general.html))
+## Общие вопросы по языку *Python* (перевод [статьи](https://docs.python.org/3/faq/general.html))
 
 В ответах, если не указано иное, подразумевается стандартная реализация языка *Python* -- *CPython*.
 
