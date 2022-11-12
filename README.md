@@ -4,4 +4,6 @@
 
 [1. Общие вопросы о языке](general_python_faq.md)
 
-[2. Частые вопросы о дизайне и истории языка](python_design_faq.md)
+[2. Вопросы о программированиих](programming_faq.md)
+
+[3. Вопросы о дизайне и истории языка](python_design_faq.md)
